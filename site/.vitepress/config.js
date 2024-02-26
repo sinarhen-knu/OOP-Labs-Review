@@ -6,7 +6,7 @@ export default defineConfig({
   description: "Лабораторні з дисципліни 'вступ до ООП'",
 
   // replace knu-template with name of your repository
-  base: "/knu-template/",
+  base: "/OOP-Labs-Review/",
 
   themeConfig: {
     nav: [{ text: "Лабораторні", link: "/labs/1" }],
